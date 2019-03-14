@@ -29,7 +29,7 @@ One occurrence was found in sector 0
 * Displaying MBR informations for /dev/sda
   * Disk identifier (in hex)
   * Partitions table (in hex)
-  * And for every partition, its type, its file system and starting address (in decimal)
+  * And for every partition, its type : primary partition, its file system : EXT and starting address : 2048 (in decimal)
 
 ![alt text](https://github.com/AghilesAzzoug/Linux-Disk-Info/blob/master/screens/MBR_dev_sda.png)
 
