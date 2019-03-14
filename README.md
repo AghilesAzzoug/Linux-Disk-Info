@@ -27,8 +27,8 @@ Sector size is by default 512 bytes
 One occurrence was found in sector 0
 
 * Displaying MBR informations for /dev/sda
-  * Disk identifier (in hex)
-  * Partitions table (in hex)
+  * Disk identifier (in hex) : 0xC4380CB
+  * Partitions table (in hex) : starting from offset 0x1BE 
   * And for every partition, its type : primary partition, its file system : EXT and starting address : 2048 (in decimal)
 
 ![alt text](https://github.com/AghilesAzzoug/Linux-Disk-Info/blob/master/screens/MBR_dev_sda.png)
