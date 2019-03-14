@@ -29,4 +29,5 @@ The default directory is /dev
 ![alt text](https://github.com/AghilesAzzoug/Linux-Disk-Info/blob/master/screens/MBR_dev_sda.png)
 
 The program can also print logical partitions using EBR informations.
+
 The variables, functions and printed strings are also written in french, sorry about that.
