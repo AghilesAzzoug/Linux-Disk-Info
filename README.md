@@ -20,6 +20,7 @@ The default directory is /dev
 
 * Searching for the string 'GRUB' in /dev/sda from sector 0 to sector 1
 ![alt text](https://github.com/AghilesAzzoug/Linux-Disk-Info/blob/master/screens/GRUB_sector_0_search.PNG)
+One occurrence was found in sector 0
 
 * Displaying MBR informations for /dev/sda
   * Disk identifier (in hex)
