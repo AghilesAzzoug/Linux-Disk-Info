@@ -10,6 +10,9 @@ A work home about linux partitions
 # Output examples 
 The default directory is /dev
 
+Sector size is by default 512 bytes
+
+
 * listing disks and partitions
 
 ![alt text](https://github.com/AghilesAzzoug/Linux-Disk-Info/blob/master/screens/listing_partitions.PNG)
